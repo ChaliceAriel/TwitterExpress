@@ -1,0 +1,9 @@
+#twitterDiv {
+	width: 500px;
+	height: 350px;
+	background color: #333;
+	color: #fff;
+}
+#getTweet {
+	background-color: red;
+}
